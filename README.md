@@ -121,9 +121,9 @@ It will provide more realistic factors and ideas for the further market research
 
 #### Outline of project
 
-- [Link to notebook 1]()
+[Link to notebook 1](https://github.com/lis-assignment/Capstone-Part2/blob/main/Capstone_Project_Main.ipynb)
 
-- [Link to notebook 2]()
+[Link to notebook 2](https://github.com/lis-assignment/Capstone-Part2/blob/main/Seatle_Housing_Classification.ipynb)
 
 
 
